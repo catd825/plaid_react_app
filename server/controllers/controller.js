@@ -1,9 +1,9 @@
 var plaid = require("plaid");
 var moment = require("moment");
 
-var PLAID_CLIENT_ID = "5f5be2345f64050010069f67";
-var PLAID_SECRET = "b25fbeaa937813a96c0ec5322f6474";
-var PLAID_PUBLIC_KEY = "59e11dc60a69583fe00bccfed0bbda";
+var PLAID_CLIENT_ID = "client key";
+var PLAID_SECRET = "secret key";
+var PLAID_PUBLIC_KEY = "public key";
 var PLAID_ENV = "sandbox";
 
 var ACCESS_TOKEN = null;
